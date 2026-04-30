@@ -1,0 +1,5 @@
+Name: Richu John
+Skills: Python, Java, MySQL, Flask,C
+Frameworks: Flask, Django
+Projects: Waste Management App using AI,privacy anomaly detection,work life Management
+Experience: Internship in IoT and AI
